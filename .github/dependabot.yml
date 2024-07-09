@@ -9,7 +9,6 @@ updates:
     directory: "/test/custom.txt"
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 0
     commit-message:
       prefix: "custom "
       include: "scope"
