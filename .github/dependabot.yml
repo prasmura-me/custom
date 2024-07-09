@@ -5,6 +5,13 @@
 
 version: 2
 updates:
+  - package-ecosystem: "maven"
+    directory: "/test"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "custom pom"
+      include: "scope"
   - package-ecosystem: "pip"
     directory: "/test"
     schedule:
