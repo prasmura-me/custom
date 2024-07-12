@@ -5,6 +5,6 @@ numpy==1.18.0  # Vulnerable to CVE-2019-6446
 pandas==0.25.3  # Vulnerable to CVE-2020-7074
 Pillow==6.2.1  # Vulnerable to CVE-2019-18847
 PyYAML==5.1.2  # Vulnerable to CVE-2017-18342
-requests==2.22.0  # Vulnerable to CVE-2018-18074
+requests==2.32.3  # Vulnerable to CVE-2018-18074
 scikit-learn==0.22.1  # Vulnerable to CVE-2021-32749
 scipy==1.4.1  # Vulnerable to CVE-2019-19844
