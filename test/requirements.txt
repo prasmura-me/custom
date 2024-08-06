@@ -1,4 +1,4 @@
-Django==3.0.0  # Vulnerable to CVE-2020-9402
+Django==5.0.8  # Vulnerable to CVE-2020-9402
 Jinja2==2.10.1  # Vulnerable to CVE-2019-10906
 MarkupSafe==1.1.0  # Vulnerable to CVE-2019-11324
 numpy==1.18.0  # Vulnerable to CVE-2019-6446
